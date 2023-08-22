@@ -1,4 +1,4 @@
-# flexible_widget
+# flexible-widget
 
 A new Flutter project.
 
